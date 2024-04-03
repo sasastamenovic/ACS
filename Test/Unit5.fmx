@@ -15,11 +15,4 @@ object Form5: TForm5
     Text = 'Button1'
     TextSettings.Trimming = None
   end
-  object Button2: TButton
-    Position.X = 296.000000000000000000
-    Position.Y = 248.000000000000000000
-    TabOrder = 2
-    Text = 'Button2'
-    TextSettings.Trimming = None
-  end
 end
